@@ -1,0 +1,28 @@
+{
+  "name": "elements-position-serializer",
+  "version": "1.0.0",
+  "description": "Tool for saving and restoring html-elements positions on document",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndg-rdmt/elements-position-serializer.git"
+  },
+  "keywords": [
+    "typescript",
+    "serialize",
+    "save-state",
+    "position",
+    "coordinates",
+    "coordinates-storage",
+    "save-html-position"
+  ],
+  "author": "vndg-rdmt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vndg-rdmt/elements-position-serializer/issues"
+  },
+  "homepage": "https://github.com/vndg-rdmt/elements-position-serializer#readme"
+}
